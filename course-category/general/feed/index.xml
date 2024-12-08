@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>General - sih2</title>
+	<atom:link href="https://swayam4751s.github.io/sih2/course-category/general/feed/" rel="self" type="application/rss+xml" />
+	<link>https://swayam4751s.github.io/sih2</link>
+	<description>Vocational Traning</description>
+	<lastBuildDate>Sat, 07 Dec 2024 12:54:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Science Class 06</title>
+		<link>https://swayam4751s.github.io/sih2/courses/learnpress-101/</link>
+		
+		<dc:creator><![CDATA[Swayam Patwa]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2015 01:42:06 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.thimpress.com/eduma/?post_type=lpr_course&#038;p=3138</guid>
+
+					<description><![CDATA[A WordPress LMS Plugin to create WordPress Learning Management System. Turn your WP to LMS WordPress with Courses, Lessons, Quizzes &#038; more. ]]></description>
+										<content:encoded><![CDATA[<h3><strong>Course Description:</strong></h3>
+<p>The Grade 6 Science course introduces students to the foundational concepts of science, emphasizing inquiry, observation, and experimentation. The course encourages critical thinking and problem-solving by exploring topics in life sciences, physical sciences, and earth sciences. Students will engage in hands-on activities and collaborative projects to deepen their understanding of scientific principles and their applications in the real world.</p>
+<h3><strong>Learning Outcomes:</strong></h3>
+<p>By the end of this course, students will:</p>
+<ol>
+<li>Understand and apply the scientific method to explore natural phenomena.</li>
+<li>Demonstrate knowledge of ecosystems, biodiversity, and the interdependence of organisms.</li>
+<li>Describe the properties of matter and how they change under different conditions.</li>
+<li>Explain the principles of energy, forces, and motion with real-life examples.</li>
+<li>Explore the Earth&#8217;s structure, processes, and its place in the solar system.</li>
+<li>Develop critical thinking and problem-solving skills through experiments and data analysis.</li>
+<li>Communicate scientific findings effectively using appropriate terminology and methods.</li>
+</ol>
+<h3><strong>Course Modules:</strong></h3>
+<h4><strong>Module 1: The Scientific Method and Inquiry</strong></h4>
+<ul>
+<li>Introduction to the scientific method</li>
+<li>Observation, hypothesis, experimentation, and conclusion</li>
+<li>Safety in the science lab</li>
+</ul>
+<h4><strong>Module 2: Matter and Its Properties</strong></h4>
+<ul>
+<li>States of matter: solids, liquids, and gases</li>
+<li>Physical and chemical changes</li>
+<li>Basic principles of atoms and molecules</li>
+</ul>
+<h4><strong>Module 3: Energy, Forces, and Motion</strong></h4>
+<ul>
+<li>Forms of energy: kinetic, potential, thermal, and electrical</li>
+<li>Basics of force and motion: Newton’s Laws</li>
+<li>Simple machines and their applications</li>
+</ul>
+<h4><strong>Module 4: Ecosystems and Biodiversity</strong></h4>
+<ul>
+<li>Structure and function of ecosystems</li>
+<li>Food chains, food webs, and energy flow</li>
+<li>Adaptations and survival of organisms</li>
+</ul>
+<h4><strong>Module 5: Earth Sciences</strong></h4>
+<ul>
+<li>Layers of the Earth: crust, mantle, and core</li>
+<li>Weathering, erosion, and rock formation</li>
+<li>Natural disasters: earthquakes, volcanoes, and tsunamis</li>
+</ul>
+<h4><strong>Module 6: The Solar System and Beyond</strong></h4>
+<ul>
+<li>The Sun, planets, and moons</li>
+<li>Earth’s rotation and revolution</li>
+<li>Phases of the moon and eclipses</li>
+</ul>
+<h4><strong>Module 7: Human Body and Health</strong></h4>
+<ul>
+<li>Basic anatomy and physiology</li>
+<li>Human organ systems and their functions</li>
+<li>Importance of nutrition, hygiene, and physical activity</li>
+</ul>
+<h4><strong>Module 8: Environmental Science</strong></h4>
+<ul>
+<li>Renewable and non-renewable resources</li>
+<li>Climate change and its impacts</li>
+<li>Conservation and sustainability practices</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>1-Hour WordPress Basic Tutorial</title>
+		<link>https://swayam4751s.github.io/sih2/courses/1-hour-wordpress-basic-tutorial/</link>
+		
+		<dc:creator><![CDATA[Swayam Patwa]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2015 03:31:03 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.thimpress.com/learnpress/?post_type=lpr_course&#038;p=1205</guid>
+
+					<description><![CDATA[In this tutorial we will provide you with detailed instructions on how to use WordPress to create and manage your site. WordPress can be used for both simple and complex websites. In our WordPress tutorial we have tried to cover all the basics and few advanced topics.]]></description>
+										<content:encoded><![CDATA[<h4>COURSE DESCRIPTION</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+<h4>CERTIFICATION</h4>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+<h4>LEARNING OUTCOMES</h4>
+<ul class="thim-list-content">
+<li>Over 37 lectures and 55.5 hours of content!</li>
+<li>LIVE PROJECT End to End Software Testing Training Included.</li>
+<li>Learn Software Testing and Automation basics from a professional trainer from your own desk.</li>
+<li>Information packed practical training starting from basics to advanced testing techniques.</li>
+<li>Best suitable for beginners to advanced level users and who learn faster when demonstrated.</li>
+<li>Course content designed by considering current software testing technology and the job market.</li>
+<li>Practical assignments at the end of every session.</li>
+<li>Practical learning experience with live project work and examples.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

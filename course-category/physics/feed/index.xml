@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>physics - sih2</title>
+	<atom:link href="https://swayam4751s.github.io/sih2/course-category/physics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://swayam4751s.github.io/sih2</link>
+	<description>Vocational Traning</description>
+	<lastBuildDate>Sat, 07 Dec 2024 18:55:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Physics Class 12th</title>
+		<link>https://swayam4751s.github.io/sih2/courses/become-a-php-master-and-make-money-fast/</link>
+		
+		<dc:creator><![CDATA[Swayam Patwa]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2015 15:40:23 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.thimpress.com/eduma/?post_type=lpr_course&#038;p=3363</guid>
+
+					<description><![CDATA[This tutorial will introduce you to PHP, a server-side scripting language you can use to make dynamic websites and web applications.]]></description>
+										<content:encoded><![CDATA[<h3><strong>Course Description:</strong></h3>
+<p>Grade 12 Physics delves into advanced principles of the physical world, exploring concepts such as mechanics, electromagnetism, wave phenomena, and modern physics. The course emphasizes analytical thinking, mathematical modeling, and experimental techniques. Students will develop a deep understanding of the laws of physics and their applications in technology, engineering, and daily life. Real-world problem-solving and laboratory experiments form a core part of the curriculum to prepare students for higher education and scientific careers.</p>
+<h3><strong>Learning Outcomes:</strong></h3>
+<p>By the end of this course, students will:</p>
+<ol>
+<li>Apply Newtonian mechanics to solve problems involving motion, forces, and energy.</li>
+<li>Understand and analyze concepts of electricity, magnetism, and electromagnetic waves.</li>
+<li>Explain wave behavior and optics, including reflection, refraction, and interference.</li>
+<li>Explore modern physics topics, including quantum theory and nuclear physics.</li>
+<li>Conduct experiments, collect data, and draw conclusions using scientific methodology.</li>
+<li>Use mathematical tools and equations to solve physics problems effectively.</li>
+<li>Demonstrate knowledge of physics’ role in technology, innovation, and societal development.</li>
+</ol>
+<h3><strong>Course Modules:</strong></h3>
+<h4><strong>Module 1: Mechanics</strong></h4>
+<ul>
+<li>Kinematics: motion in one and two dimensions</li>
+<li>Newton’s Laws of Motion and applications</li>
+<li>Work, energy, and power</li>
+<li>Rotational motion and dynamics</li>
+<li>Gravitation and planetary motion</li>
+</ul>
+<h4><strong>Module 2: Thermodynamics</strong></h4>
+<ul>
+<li>Heat, temperature, and the laws of thermodynamics</li>
+<li>Thermal expansion and heat transfer methods</li>
+<li>Kinetic theory of gases</li>
+</ul>
+<h4><strong>Module 3: Waves and Oscillations</strong></h4>
+<ul>
+<li>Simple harmonic motion</li>
+<li>Types of waves: mechanical, transverse, and longitudinal</li>
+<li>Wave properties: speed, frequency, and amplitude</li>
+<li>Sound waves and Doppler effect</li>
+</ul>
+<h4><strong>Module 4: Electromagnetism</strong></h4>
+<ul>
+<li>Electric charges and Coulomb’s Law</li>
+<li>Electric fields and potential</li>
+<li>Current electricity: circuits, resistors, and capacitors</li>
+<li>Magnetic fields and forces</li>
+<li>Electromagnetic induction and Faraday’s Law</li>
+</ul>
+<h4><strong>Module 5: Optics</strong></h4>
+<ul>
+<li>Reflection and refraction of light</li>
+<li>Lenses and mirrors: ray diagrams and image formation</li>
+<li>Wave optics: interference, diffraction, and polarization</li>
+</ul>
+<h4><strong>Module 6: Modern Physics</strong></h4>
+<ul>
+<li>Quantum physics: photoelectric effect and wave-particle duality</li>
+<li>Atomic models: Bohr’s model and hydrogen spectrum</li>
+<li>Nuclear physics: radioactivity, fission, and fusion</li>
+<li>Relativity: time dilation and length contraction</li>
+</ul>
+<h4><strong>Module 7: Electronics</strong></h4>
+<ul>
+<li>Semiconductors and diodes</li>
+<li>Transistors and their applications</li>
+<li>Logic gates and basic digital circuits</li>
+</ul>
+<h4><strong>Module 8: Practical Applications and Experiments</strong></h4>
+<ul>
+<li>Laboratory experiments related to mechanics, waves, and electricity</li>
+<li>Error analysis and data interpretation</li>
+<li>Real-world applications of physics in engineering and technology</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

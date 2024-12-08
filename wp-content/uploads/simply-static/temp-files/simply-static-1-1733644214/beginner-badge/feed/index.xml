@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beginner-badge &#8211; sih2</title>
+	<atom:link href="https://swayam4751s.github.io/sih2/beginner-badge/feed/" rel="self" type="application/rss+xml" />
+	<link>https://swayam4751s.github.io/sih2</link>
+	<description>Vocational Traning</description>
+	<lastBuildDate>Sat, 07 Dec 2024 18:56:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Badges</title>
+		<link>https://swayam4751s.github.io/sih2/beginner-badge/beiggner-badge/</link>
+		
+		<dc:creator><![CDATA[Swayam Patwa]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 18:34:15 +0000</pubDate>
+				<guid isPermaLink="false">https://swayam4751s.github.io/sih2/?post_type=beginner-badge#038;p=10844</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
